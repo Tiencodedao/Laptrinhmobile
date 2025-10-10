@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Auto layout, grids, variables, and unit scale are not yet supported -->
+    <View
+        android:id="@+id/bounding_bo"
+        android:layout_width="35.5dp"
+        android:layout_height="35.5dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="11dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="62dp"
+        android:background="#D9D9D9"
+        />
+</PreferenceScreen>
