@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Laptrinhmobile">
         <activity
-            android:name=".EX2Activity"
+            android:name=".Lab2Activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
